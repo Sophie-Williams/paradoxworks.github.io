@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Paradox Works
 
-You can use the [editor on GitHub](https://github.com/paradoxworks/paradoxworks.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Check out my main websites for further information [metin2paradox.com](https://metin2paradox.com/) and [paradoxwork.com](https://paradoxwork.com/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
