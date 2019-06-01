@@ -4,24 +4,10 @@ Check out my main websites for further information [metin2paradox.com](https://m
 
 ### Change-Logs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Keep up to date with my work!
-
-`01/06/2019`
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+| Date          | File          | Changes  |
+| ------------- |:-------------:| --------:|
+| 01/06/2019    | Metin2Patcher |Added     |
 ```
 
 ### Support or Contact
