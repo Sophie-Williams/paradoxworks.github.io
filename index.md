@@ -34,5 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble? Contact me!
 
-Skype: live:mrodrigo2006_1
-Discord: Paradox#6908
+- Skype: live:mrodrigo2006_1
+- Discord: Paradox#6908
