@@ -5,11 +5,6 @@ Check out my main websites for further information [metin2paradox.com](https://m
 ### Change-Logs
 
 ```markdown
-| Date          | File          | Changes  |
-| ------------- |:-------------:| --------:|
-| 01/06/2019    | Metin2Patcher | Added    |
-
-
 `01/06/2019` # Added Metin2 Patcher Source Code + PSD + Fonts + HashMaker (C#)
 ```
 
