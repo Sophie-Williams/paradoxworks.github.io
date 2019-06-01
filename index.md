@@ -1,6 +1,6 @@
 ## Welcome to Paradox Works
 
-Check out my main websites for further information [metin2paradox.com](https://metin2paradox.com/) and [paradoxwork.com](https://paradoxwork.com/)
+Check out my main websites for further information [metin2paradox.com](https://metin2paradox.com/) and [paradoxwork.com](https://paradoxwork.com/).
 
 ### Change-Logs
 
