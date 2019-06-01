@@ -7,9 +7,9 @@ Check out my main websites for further information [metin2paradox.com](https://m
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Keep up to date with my work!
 
-# Header 1
+`01/06/2019`
 ## Header 2
 ### Header 3
 
